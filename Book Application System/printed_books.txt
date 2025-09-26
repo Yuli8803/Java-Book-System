@@ -1,0 +1,4 @@
+The Silent Forest,Rachel Green,Mystery,3200.0,320
+Whispers of the Past,Daniel Carter,Historical Fiction,2750.0,275
+Through the Crimson,Emily Harper,Fantasy,4000.0,400
+The Giver,Leonardo Dicaprio,Fiction,2500.0,250
